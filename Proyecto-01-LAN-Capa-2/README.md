@@ -5,7 +5,8 @@ Demostrar la comunicación en una red LAN, el funcionamiento de la conmutación 
 
 ## Topología
 <img width="1065" height="702" alt="Red LAN" src="https://github.com/user-attachments/assets/b423ebc4-be45-45fd-9378-0d5b6e1cd799" />
-En la imagen se puede visualizar la topología de una red LAN. Asigné la IP de red, el rango de Host, el broadcast y el gateway.
+En la imagen se puede visualizar la topología de una red LAN. Se definieron la IP de red, el rango de hosts, el broadcast y la puerta de enlace.
+La interconexión entre dispositivos se realizó mediante cableado Ethernet de cobre (UTP) con conectores RJ-45.
 
 ## Configuración de red
 <img width="1339" height="712" alt="Red LAN 2" src="https://github.com/user-attachments/assets/a6040e5f-e88d-491b-a598-e10750f1fb5e" />
