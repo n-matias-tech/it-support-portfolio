@@ -9,7 +9,7 @@ La topología de esta red está compuesta de dos redes con distinta IP y dos rou
 
 # Configuración de red
 <img width="1920" height="865" alt="image" src="https://github.com/user-attachments/assets/c7689098-8836-4058-a0f4-33efdea1f7c5" />
-En esta imagen, aplica más de lo mismo. Es la configuración de red pero con la diferencia de que para cada una, se asigna un host nuevo y gateway correspondiente a cada enrutador. La "Sucursal A" tiene 192.168.1.0 /24 y la "Sucursal B" dispone de 192.168.2.1 /24.
+En esta imagen, aplica más de lo mismo. Es la configuración de red pero con la diferencia de que para cada una, se asigna un host nuevo y gateway correspondiente a cada enrutador. La "Sucursal A" tiene 192.168.1.0 /24 y la "Sucursal B" dispone de 192.168.2.0 /24.
 
 # Enrutamiento estático
 <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/6ad0fd29-b128-4d91-89cf-36456e399f94" />
