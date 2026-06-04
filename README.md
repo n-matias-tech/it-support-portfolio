@@ -1,4 +1,4 @@
-# Portafolio – Tecnico de Redes, Infraestructura y de soporte ISP
+# Portafolio – Tecnico de Redes IT
 
 ## Sobre mi
 Profesional de soporte técnico con experiencia en diagnóstico y resolución de incidencias de conectividad. Actualmente enfocado en el aprendizaje de redes e infraestructura IT, con interés en seguir desarrollando conocimientos técnicos y contribuir a entornos orientados a la mejora continua.
