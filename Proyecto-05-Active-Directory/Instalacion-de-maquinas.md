@@ -1,4 +1,4 @@
-# Proyecto 05 - Active Directory Home Lab
+Fase 1 - Instalación de máquinas virtuales 
 
 ## Objetivo
 
