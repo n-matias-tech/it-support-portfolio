@@ -1,7 +1,7 @@
 # Portafolio – Soporte Técnico Jr | Redes
 
 ## Sobre mi
-Soy un estudiante apasionado por la tecnología, actualmente enfocado en redes informáticas, reparación, armado y mantenimiento de PC. Me motiva comprender cómo funcionan los sistemas y aprender a resolver problemas de manera práctica y responsable. En este momento, mi principal objetivo es encontrar un entorno donde pueda aplicar lo que estoy aprendiendo y seguir desarrollando mis habilidades a largo plazo. Busco un espacio en el que pueda aportar valor, crecer junto a otras personas y trabajar en equipo para alcanzar objetivos, tanto profesionales como personales.
+Profesional de soporte técnico con experiencia en diagnóstico y resolución de incidencias de conectividad. Actualmente enfocado en el aprendizaje de redes e infraestructura IT, con interés en seguir desarrollando conocimientos técnicos y contribuir a entornos orientados a la mejora continua.
 
 ## Objetivo 
 Este portafolio reúne proyectos y prácticas, desarrolladas de forma progresiva, explicaciones escritas y evidencia visual. 
