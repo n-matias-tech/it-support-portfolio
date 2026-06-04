@@ -1,0 +1,50 @@
+# Fase 4 - Unión al Dominio y Administración de Usuarios
+
+## Objetivo
+
+Incorporar un equipo cliente al dominio y realizar las primeras tareas de administración de usuarios dentro de Active Directory.
+
+## Tecnologías utilizadas
+
+* Windows Server 2012 R2
+* Active Directory Domain Services (AD DS)
+* Windows 10
+* Hyper-V
+
+## Descripción
+
+En esta etapa se realizó la unión de un equipo cliente al dominio previamente configurado. Además, se exploró la estructura del dominio y se llevaron a cabo tareas básicas de administración de usuarios mediante las herramientas de Active Directory.
+
+## Actividades realizadas
+
+### Unión del equipo al dominio
+
+* Configuración del cliente para utilizar el servidor DNS del dominio.
+* Incorporación del equipo cliente al dominio.
+* Reinicio y validación de la unión al dominio.
+
+### Exploración de Active Directory
+
+* Revisión de la estructura del dominio.
+* Acceso a Active Directory Users and Computers.
+* Verificación de contenedores y objetos predeterminados.
+
+### Administración de usuarios
+
+* Creación de un nuevo usuario.
+* Asignación de privilegios administrativos.
+* Verificación de la cuenta creada.
+
+### Validación
+
+* Inicio de sesión con credenciales de dominio.
+* Verificación del acceso correcto al entorno.
+* Confirmación de autenticación mediante Active Directory.
+
+## Evidencias
+
+https://youtu.be/2wclcokPM_k
+
+## Resultado
+
+Se logró incorporar correctamente un equipo cliente al dominio y administrar usuarios mediante Active Directory, validando el proceso de autenticación y acceso al entorno de dominio.
